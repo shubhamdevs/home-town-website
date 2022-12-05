@@ -6,4 +6,4 @@ Participating in the MLH's(Major League Hacking) Global Hack Week December Chall
 
 <br>
 
-[![image of home town landing page website] (./images/website-screenshot.png "Kolkata the City of Joy")]
+![image of home town landing page website](./images/website-screenshot.png "Kolkata City of Joy" )
