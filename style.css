@@ -59,6 +59,12 @@ nav ul li a {
     flex-basis: 50%;
 }
 
+#card-block {
+    margin-left: 30px;
+    padding-left: 30px;
+}
+
+
 h1 {
     color: #fff;
     font-size: 100px;
@@ -107,7 +113,7 @@ button {
     background-image: url(./images/Victoria.jpeg);
     background-position: center;
     background-size: cover;
-    
+    transition: tansform 0.5s;
 }
 
 #howrah {
@@ -126,3 +132,11 @@ button {
     background-image: url(./images/Dakhineswar.jpeg);
 }
 
+.card:hover {
+    transform: translateY(-10px);
+}
+
+h5 {
+    color: #fff;
+    text-shadow: 0 0 5px #999;
+}
