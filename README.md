@@ -4,7 +4,8 @@ Challange: DESIGN A LANDING PAGE FOR YOUR HOMETOWN
 Participating in the MLH's(Major League Hacking) Global Hack Week December Challenge I made this home town landing page.
 
 <br>
-Here is the website link: <https://github.com/suvm7/home-town-website/tree/main>
+
+Website Link: https://suvm7.github.io/home-town-website/
 
 <br>
 
