@@ -48,3 +48,49 @@ nav ul li a {
     color: #fff;
     font-size: 14px;
 }
+
+.row {
+    display: flex;
+    height: 88%;
+    align-items: center;
+}
+
+.col {
+    flex-basis: 50%;
+}
+
+h1 {
+    color: #fff;
+    font-size: 100px;
+}
+
+h2 {
+    margin-top: 10px;
+    color: #fff;
+    font-size: 80px;
+}
+
+p {
+    color: #fff;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: justify;
+
+}
+
+#main-text {
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+button {
+    width: 180px;
+    color: #000;
+    font-size: 15px;
+    padding:12px 0;
+    background: #fff;
+    border: 0;
+    border-radius: 30px;
+    outline: none;
+    margin-top: 10px;
+}
